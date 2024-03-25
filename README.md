@@ -1,6 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
-
+[![Build Status](https://dev.azure.com/learn-azure-pipeline/Automate%20CICD/_apis/build/status%2Ft-bello7.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/learn-azure-pipeline/Automate%20CICD/_build/latest?definitionId=5&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
