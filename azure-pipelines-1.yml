@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: pipeline-agent
+pool: pipeline-agent
 
 steps:
 - task: NodeTool@0
