@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="C:\Users\tbello\learn\ContosoAir\src\services\airports.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\airports.service.spec.js" hostname="localhost" tests="3" failures="0" time="3.465" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Airports Service" name="gets all listed airpots" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Airports Service" name="gets specific airport" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Airports Service" name="never has an empty city" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="1" name="C:\Users\tbello\learn\ContosoAir\src\services\deals.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\deals.service.spec.js" hostname="localhost" tests="2" failures="0" time="3.508" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Deals Service" name="returns correct destinations" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Deals Service" name="returns correct deal" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="2" name="C:\Users\tbello\learn\ContosoAir\src\services\navbar.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\navbar.service.spec.js" hostname="localhost" tests="3" failures="0" time="3.428" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Navbar Service" name="returns always three arrays" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Navbar Service" name="dont have greeting if not logged in" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Navbar Service" name="to have the correct active flag" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="3" name="C:\Users\tbello\learn\ContosoAir\src\services\price.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\price.service.spec.js" hostname="localhost" tests="2" failures="0" time="3.627" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Price Service" name="returns always higher prices on weekend" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Price Service" name="always return more than base price" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="4" name="C:\Users\tbello\learn\ContosoAir\src\services\flights.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\flights.service.spec.js" hostname="localhost" tests="3" failures="0" time="3.695" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Flights Service" name="returns empty if no flights in repository" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Flights Service" name="returns all flights" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Flights Service" name="get correct flight by id with correct parsers" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="5" name="C:\Users\tbello\learn\ContosoAir\src\services\date.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\date.service.spec.js" hostname="localhost" tests="2" failures="0" time="3.844" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Date Service" name="returns a valid list of days for set of 8 days" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Date Service" name="returns a valid list of days for a set of 5 days" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="6" name="C:\Users\tbello\learn\ContosoAir\src\services\deals.service.ispec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\deals.service.ispec.js" hostname="localhost" tests="4" failures="0" time="3.691" timestamp="2024-04-05T06:46:11">
+    <properties>
+    </properties>
+    <testcase classname="[Int] That Deals Service" name="returns always 1 destinations" time="0">
+    </testcase>
+    <testcase classname="[Int] That Deals Service" name="returns always 3 destinations" time="0">
+    </testcase>
+    <testcase classname="[Int] That Deals Service" name="returns always 2 deals" time="0">
+    </testcase>
+    <testcase classname="[Int] That Deals Service" name="returns always 4 deals" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="7" name="C:\Users\tbello\learn\ContosoAir\src\services\book.form.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\book.form.service.spec.js" hostname="localhost" tests="1" failures="0" time="0.75" timestamp="2024-04-05T06:46:15">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Book Form Service" name="all required form fields on view exist" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="8" name="C:\Users\tbello\learn\ContosoAir\src\services\book.service.spec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\book.service.spec.js" hostname="localhost" tests="6" failures="0" time="11.839" timestamp="2024-04-05T06:46:15">
+    <properties>
+    </properties>
+    <testcase classname="[Unit] That Book Service" name="calls repository on getFlights" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Book Service" name="adds up the price on " time="0">
+    </testcase>
+    <testcase classname="[Unit] That Book Service" name="can book a flight" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Book Service" name="gets no booked flight if there wasnt any" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Book Service" name="doesnt purchase if there is no booked" time="0">
+    </testcase>
+    <testcase classname="[Unit] That Book Service" name="adds booked to purchased and removes it from booked storage" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="9" name="C:\Users\tbello\learn\ContosoAir\src\services\airports.service.ispec.js" errors="0" package="C:\Users\tbello\learn\ContosoAir\src\services\airports.service.ispec.js" hostname="localhost" tests="14" failures="0" time="11.891" timestamp="2024-04-05T06:46:15">
+    <properties>
+    </properties>
+    <testcase classname="[Int] That Airports Service" name="has that all airports have a city" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code CDG (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code JFK (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code TOR (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code BOS (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code JFK (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code FRA (used by flights)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code SEA (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code BCN (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code HNL (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code CDG (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code NAR (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code LHR (used by deals)" time="0">
+    </testcase>
+    <testcase classname="[Int] That Airports Service" name="exists airport with code SIN (used by deals)" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
